@@ -1,0 +1,5 @@
+Prácticas básicas de seguridad digital
+
+1. Activar la autenticación en dos factores para añadir una capa extra de protección a las cuentas.
+2. Evitar abrir enlaces o archivos adjuntos de correos electrónicos o mensajes de origen desconocido.
+3. Realizar copias de seguridad periódicas de la información importante para prevenir la pérdida de datos.

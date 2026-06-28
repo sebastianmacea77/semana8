@@ -1,0 +1,16 @@
+Prácticas de seguridad para una plataforma digital comunitaria
+
+1. Activar la autenticación en dos factores para proteger las c
+uentas de los usuarios.
+
+2. Realizar copias de seguridad periódicas de la información 
+almacenada.
+
+3. Mantener el sistema y las aplicaciones actualizados con los 
+últimos parches de seguridad.
+
+4. Asignar permisos de acceso según el rol de cada usuario para 
+evitar accesos innecesarios.
+
+5. Monitorear la actividad de la plataforma para detectar 
+intentos de acceso no autorizados o comportamientos sospechosos.

@@ -1,0 +1,18 @@
+Los comandos utilizados permiten crear y organizar archivos 
+desde la terminal de Linux. El comando `mkdir seguridad` crea 
+una nueva carpeta llamada **seguridad**. Luego, `cd seguridad` 
+permite ingresar a esa carpeta para trabajar dentro de ella. 
+Finalmente, `touch buenas-practicas.txt` crea un archivo de 
+texto vacío llamado **buenas-practicas.txt**, donde 
+posteriormente se puede escribir información, como 
+recomendaciones de seguridad digital.
+
+Conocer la información del sistema es útil al administrar un s
+ervidor porque permite verificar el estado del equipo, los r
+ecursos disponibles y la configuración del sistema operativo. E
+sto ayuda a detectar problemas de rendimiento, prevenir 
+fallas y garantizar que los servicios funcionen correctamente. 
+Además, facilita la instalación de programas compatibles, la a
+plicación de actualizaciones y la toma de decisiones para mant
+ener el servidor seguro, estable y eficiente.
+
